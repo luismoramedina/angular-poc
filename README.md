@@ -1,1 +1,3 @@
-this is a angular poc
+# angular yeoman bower grunt 
+
+simple tasks test
