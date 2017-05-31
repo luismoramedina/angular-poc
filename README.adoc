@@ -1,0 +1,11 @@
+= angular yeoman bower grunt
+
+simple list model in an angular app
+
+== Build and run
+-----
+npm install -g grunt bower
+npm install
+bower install
+grunt serve
+-----
